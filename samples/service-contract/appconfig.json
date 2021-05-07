@@ -2,6 +2,7 @@
   "name": "Service Contract",
   "provider": "SAP FSM",
   "description": "Sample extension to demo data fetch using a frontend only architecture",   
-  "version": "1.0.0", 
+  "version": "1.0.0",
+  "optimalHeight": "500px",
   "icon": "https://raw.githubusercontent.com/SAP-samples/fsm-extension-sample/refactor/samples/service-contract/icon.png"
 }
