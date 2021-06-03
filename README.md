@@ -32,6 +32,9 @@ These samples are direct from the feature teams and we welcome your input on iss
 <table>
  <tr>
   <td><a href="samples/service-contract/">Service contract</a></td>
+  <td><a href="samples/service-contract-200px/">Service contract 200px</a></td>
+  <td><a href="samples/service-contract-500px/">Service contract 500px</a></td>
+  <td><a href="samples/service-contract-1000px/">Service contract 1000px</a></td>
  </tr>
  <tr>
   <td><a href="samples/with-shell-navigation/">Inside Shell with Shell navigation</a></td>
